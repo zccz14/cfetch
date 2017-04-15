@@ -1,0 +1,22 @@
+{
+  "name": "cfetch",
+  "version": "0.1.0",
+  "description": "fetch tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zccz14/cfetch.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "zccz14",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zccz14/cfetch/issues"
+  },
+  "homepage": "https://github.com/zccz14/cfetch#readme"
+}
