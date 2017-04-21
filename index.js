@@ -6,7 +6,7 @@ module.exports = function (baseURL) {
     return function (method) {
         return function (path) {
             return function (data) {
-                return fetch(baseURL + url, {
+                return fetch(baseURL + path, {
                     method,
                     headers: {
                         'Content-Type': 'application/json'
